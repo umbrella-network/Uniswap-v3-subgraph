@@ -6,3 +6,7 @@ yarn-error.log
 tests/.bin/
 tests/.docker/
 tests/.latest.json
+
+.idea/
+.yarn/
+generated/
